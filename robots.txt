@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shopeeoficial.github.io/sitemap.xml
